@@ -1,4 +1,6 @@
 # Bolonlab_barcode_ORF_assembly
+### This code is associated with the paper from Flynn et al., "Comprehensive fitness maps of Hsp90 show widespread environmental dependence". eLife, 2020. http://dx.doi.org/10.7554/eLife.53810
+
 Association of ORF mutations with barcodes from paired-end sequencing data
 
 00_PE_splice.pl - takes PE fastq files as input, outputs file with 
